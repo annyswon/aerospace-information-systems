@@ -41,4 +41,4 @@ MAI/ 5 semester<br>
 Расчет был выполнен с помощью библиотеки rasterio н аязыке Python3. 
 
 **Результат:**<br>
-![Image alt](https://https://github.com/annyswon/aerospace-information-systems/raw/Surkova/ResultNVDI.png)
+!(https://github.com/annyswon/aerospace-information-systems/blob/Surkova/ResultNDVI.jpg)
