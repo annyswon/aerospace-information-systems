@@ -20,4 +20,6 @@ MAI/ 5 semester<br>
 5) Определем на снимке свой город. 
 Координаты города были взяты из Википедии.
 
+**Результат:**<br>
+![Иллюстрация к проекту](https://github.com/annyswon/aerospace-information-systems/blob/lab1/Майами.jpg)
 
