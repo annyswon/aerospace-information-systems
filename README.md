@@ -20,7 +20,8 @@ MAI/ 5 semester<br>
 4) "Ориентируемся" на снимке с помощью подсчета дельты по горизонтали и вертикали 
 5) Определем на снимке свой город. 
 Координаты города были взяты из Википедии.
-
+**Результат:**<br>
+![Иллюстрация к проекту](https://github.com/annyswon/aerospace-information-systems/blob/Surkova/ResultFindTheCity.jpg)
 
 ## Лабораторная работа 2
 [Задание на работу](https://gist.github.com/ilyashatalov/5c6d8d24222c8fb07a7921dda109c8ea)
